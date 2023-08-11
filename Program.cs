@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+#region Value Types
+
+
+
+#endregion
+
+
+
+#region Reference Types
+
+
+
+#endregion
